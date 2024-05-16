@@ -31,4 +31,5 @@ This is a simple implementation of the classic Rock-Paper-Scissors game in C++. 
 
 To run the game, you'll need a C++ compiler installed on your system.
 
-1. Clone this repository:
+1. Clone this repository
+2. Enjoy!
